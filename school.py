@@ -45,4 +45,5 @@ class SchoolPySpider(scrapy.Spider):
             'physicalAddress': data['physicalAddress']['displayAddress'],
             'postalAddress': data['postalAddress']['displayAddress'],
             'Email': data['mail'],
+            
         }
