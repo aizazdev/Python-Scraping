@@ -1,0 +1,65 @@
+[
+    {
+        "header": "IMPORTANT!",
+        "paragraph": "This blog is only for practicing learning. The contents may change but ",
+        "author": "Upendra",
+        "date": "November 28, 2019",
+        "tags": null
+    },
+    {
+        "header": "Part 2 of BS4 Selenium,\u00a0Scrapy",
+        "paragraph": "This is part 2 of the dummy post. This post is just a copy of ",
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "tags": "Python"
+    },
+    {
+        "header": "Introduce Yourself",
+        "paragraph": "This ",
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "tags": null
+    },
+    {
+        "header": "Part 3 of Scrapy and\u00a0JSON",
+        "paragraph": "This blog is nothing but a copy of ",
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "tags": "Code"
+    },
+    {
+        "header": "Part 1 of Scrapy and\u00a0JSON",
+        "paragraph": "How easy is it to get JSON data with Scrapy? This is one more dummy post for practice.",
+        "author": "Upendra",
+        "date": "December 14, 2019",
+        "tags": "Code"
+    },
+    {
+        "header": "Send Mail using\u00a0Python",
+        "paragraph": "Securely send mail from code: Sending mail with Python is very easy. just a few lines of code. But what that password that you are writing in your source code?",
+        "author": "Upendra",
+        "date": "December 14, 2019",
+        "tags": "Code"
+    },
+    {
+        "header": "Running BS4, Selenium,\u00a0Scrapy",
+        "paragraph": "Selenium was created as a UI Testing Tool. This still used by Testers in software companies. Let\u2019s see a typical scenario.",
+        "author": "Upendra",
+        "date": "December 14, 2019",
+        "tags": "Python"
+    },
+    {
+        "header": "IMPORTANT!",
+        "paragraph": "This blog is only for practicing learning. The contents may change but ",
+        "author": "Upendra",
+        "date": "November 28, 2019",
+        "tags": null
+    },
+    {
+        "header": "Welcome to the Scraping\u00a0Blog",
+        "paragraph": "THIS IS A DUMMY POST. ",
+        "author": "Upendra",
+        "date": "November 28, 2019",
+        "tags": null
+    }
+]
